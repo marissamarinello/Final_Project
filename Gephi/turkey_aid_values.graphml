@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="node_type" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="AC4S">
+  <data key="d0">organization</data>
+</node>
+<node id="ANSER">
+  <data key="d0">organization</data>
+</node>
+<node id="ASTRO Systems, Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="AVEA">
+  <data key="d0">organization</data>
+</node>
+<node id="AVEA + NOT MAPPED">
+  <data key="d0">organization</data>
+</node>
+<node id="American Association of Airport Executives (AAAE)">
+  <data key="d0">organization</data>
+</node>
+<node id="Animal and Plant Health Inspection Service">
+  <data key="d0">organization</data>
+</node>
+<node id="BUSACC">
+  <data key="d0">organization</data>
+</node>
+<node id="Bilateral U.S. Arab Chamber of Commerce (BUSACC)">
+  <data key="d0">organization</data>
+</node>
+<node id="CARANA Corporation">
+  <data key="d0">organization</data>
+</node>
+<node id="Customs and Border Protection (CBP)">
+  <data key="d0">organization</data>
+</node>
+<node id="DEA">
+  <data key="d0">organization</data>
+</node>
+<node id="Defense Security Cooperation Agency">
+  <data key="d0">organization</data>
+</node>
+<node id="Defense Threat Reduction Agency">
+  <data key="d0">organization</data>
+</node>
+<node id="Department of Defense">
+  <data key="d0">organization</data>
+</node>
+<node id="Department of Energy - Office on Nonproliferation and Arms Control">
+  <data key="d0">organization</data>
+</node>
+<node id="Department of Justice - Criminal Division - International Criminal Investigative Training Assistance Program (ICITAP)">
+  <data key="d0">organization</data>
+</node>
+<node id="Department of Justice - Criminal Division - Overseas Prosecutorial Development Assistance and Training (OPDAT)">
+  <data key="d0">organization</data>
+</node>
+<node id="Department of Justice Drug Enforcement Agency">
+  <data key="d0">organization</data>
+</node>
+<node id="Drug Enforcement Administration">
+  <data key="d0">organization</data>
+</node>
+<node id="ESTA International, LLC">
+  <data key="d0">organization</data>
+</node>
+<node id="Enterprise - Non United States Unknown">
+  <data key="d0">organization</data>
+</node>
+<node id="European Bank for Reconstruction and Development">
+  <data key="d0">organization</data>
+</node>
+<node id="FABSIT Foundation">
+  <data key="d0">organization</data>
+</node>
+<node id="Fabsit Foundation">
+  <data key="d0">organization</data>
+</node>
+<node id="Fair Labor Association">
+  <data key="d0">organization</data>
+</node>
+<node id="General Electric">
+  <data key="d0">organization</data>
+</node>
+<node id="INTERNATIONAL ORGANIZATION FOR MIGRATION">
+  <data key="d0">organization</data>
+</node>
+<node id="INTERNATIONAL SEA TURTLE SOCIE">
+  <data key="d0">organization</data>
+</node>
+<node id="Immigration and Customs Enforcement (ICE)">
+  <data key="d0">organization</data>
+</node>
+<node id="Information Redacted">
+  <data key="d0">organization</data>
+</node>
+<node id="International Federation of Red Cross and Red Crescent Societies">
+  <data key="d0">organization</data>
+</node>
+<node id="International Organisation for Migration">
+  <data key="d0">organization</data>
+</node>
+<node id="Isik Tarim">
+  <data key="d0">organization</data>
+</node>
+<node id="Jeppesen Sanderson, Inc">
+  <data key="d0">organization</data>
+</node>
+<node id="MICHIGAN STATE UNIVERSITY">
+  <data key="d0">organization</data>
+</node>
+<node id="Michigan State University">
+  <data key="d0">organization</data>
+</node>
+<node id="OSISoft LLC">
+  <data key="d0">organization</data>
+</node>
+<node id="Office of the Board of Trustees Robert College of Istanbul">
+  <data key="d0">organization</data>
+</node>
+<node id="PAMUKKALE BILIM MERKEZI DERNEGI">
+  <data key="d0">organization</data>
+</node>
+<node id="POINT SECURITY, INC.">
+  <data key="d0">organization</data>
+</node>
+<node id="Personal Services Contractors - USAID">
+  <data key="d0">organization</data>
+</node>
+<node id="Selection In Progress">
+  <data key="d0">organization</data>
+</node>
+<node id="The Webster Group">
+  <data key="d0">organization</data>
+</node>
+<node id="Transportation Security Administration (TSA)">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - Department of Defense">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - Department of State">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - U.S. Agency for International Development">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. National Laboratories">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. National Labs">
+  <data key="d0">organization</data>
+</node>
+<node id="United States Coast Guard (USCG)">
+  <data key="d0">organization</data>
+</node>
+<node id="United States Coast Guard / Deputy Commandment for Operations I-2">
+  <data key="d0">organization</data>
+</node>
+<node id="Unspecified Vendors - Bosnia and Herzegovina">
+  <data key="d0">organization</data>
+</node>
+<node id="VIRGINIA POLYTECHNIC INSTITUTE  ST">
+  <data key="d0">organization</data>
+</node>
+<node id="Vendor implementing direct administrative services">
+  <data key="d0">organization</data>
+</node>
+<node id="WBC - Nurolbank (Senior)">
+  <data key="d0">organization</data>
+</node>
+<node id="WBC -- Nurolbank (Subordinated)">
+  <data key="d0">organization</data>
+</node>
+<node id="Webster Group, Inc. (THE)">
+  <data key="d0">organization</data>
+</node>
+<node id="Willdan Energy Solutions">
+  <data key="d0">organization</data>
+</node>
+<node id="World Bank Group">
+  <data key="d0">organization</data>
+</node>
+<node id="World Food Program">
+  <data key="d0">organization</data>
+</node>
+<node id="Civilian peace-building, conflict prevention and resolution">
+  <data key="d0">aid</data>
+</node>
+<node id="Multisector aid">
+  <data key="d0">aid</data>
+</node>
+<node id="Telecommunications">
+  <data key="d0">aid</data>
+</node>
+<node id="Relief co-ordination; protection and support services">
+  <data key="d0">aid</data>
+</node>
+<node id="Transport policy and administrative management">
+  <data key="d0">aid</data>
+</node>
+<node id="Agricultural education/training">
+  <data key="d0">aid</data>
+</node>
+<node id="Energy generation, non-renewable sources ñ unspecified">
+  <data key="d0">aid</data>
+</node>
+<node id="Small and medium-sized enterprises (SME) development">
+  <data key="d0">aid</data>
+</node>
+<node id="Sectors not specified">
+  <data key="d0">aid</data>
+</node>
+<node id="Narcotics control">
+  <data key="d0">aid</data>
+</node>
+<node id="Vocational training">
+  <data key="d0">aid</data>
+</node>
+<node id="Energy generation, renewable sources ñ multiple technologies">
+  <data key="d0">aid</data>
+</node>
+<node id="Family planning">
+  <data key="d0">aid</data>
+</node>
+<node id="Food aid/Food security programmes">
+  <data key="d0">aid</data>
+</node>
+<node id="Material relief assistance and services">
+  <data key="d0">aid</data>
+</node>
+<node id="Reproductive health care">
+  <data key="d0">aid</data>
+</node>
+<node id="Financial policy and administrative management">
+  <data key="d0">aid</data>
+</node>
+<node id="Basic health care">
+  <data key="d0">aid</data>
+</node>
+<node id="Higher education">
+  <data key="d0">aid</data>
+</node>
+<node id="Economic and development policy/planning">
+  <data key="d0">aid</data>
+</node>
+<node id="Basic health infrastructure">
+  <data key="d0">aid</data>
+</node>
+<node id="Bio-diversity">
+  <data key="d0">aid</data>
+</node>
+<node id="Social/ welfare services">
+  <data key="d0">aid</data>
+</node>
+<node id="Business support services and institutions">
+  <data key="d0">aid</data>
+</node>
+<node id="Agricultural research">
+  <data key="d0">aid</data>
+</node>
+<node id="STD control including HIV/AIDS">
+  <data key="d0">aid</data>
+</node>
+<node id="Multisector education/training">
+  <data key="d0">aid</data>
+</node>
+<node id="Emergency food aid">
+  <data key="d0">aid</data>
+</node>
+<node id="Tuberculosis control">
+  <data key="d0">aid</data>
+</node>
+<node id="Energy education/training">
+  <data key="d0">aid</data>
+</node>
+<node id="Administrative costs">
+  <data key="d0">aid</data>
+</node>
+<node id="Formal sector financial intermediaries">
+  <data key="d0">aid</data>
+</node>
+<edge source="AC4S" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">10</data>
+</edge>
+<edge source="AC4S" target="Multisector aid">
+  <data key="d1">9</data>
+</edge>
+<edge source="ANSER" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="ASTRO Systems, Inc." target="Telecommunications">
+  <data key="d1">2</data>
+</edge>
+<edge source="AVEA" target="Relief co-ordination; protection and support services">
+  <data key="d1">7</data>
+</edge>
+<edge source="AVEA + NOT MAPPED" target="Relief co-ordination; protection and support services">
+  <data key="d1">3</data>
+</edge>
+<edge source="American Association of Airport Executives (AAAE)" target="Transport policy and administrative management">
+  <data key="d1">4</data>
+</edge>
+<edge source="Animal and Plant Health Inspection Service" target="Agricultural education/training">
+  <data key="d1">1</data>
+</edge>
+<edge source="BUSACC" target="Energy generation, non-renewable sources ñ unspecified">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bilateral U.S. Arab Chamber of Commerce (BUSACC)" target="Energy generation, non-renewable sources ñ unspecified">
+  <data key="d1">4</data>
+</edge>
+<edge source="CARANA Corporation" target="Small and medium-sized enterprises (SME) development">
+  <data key="d1">1</data>
+</edge>
+<edge source="Customs and Border Protection (CBP)" target="Sectors not specified">
+  <data key="d1">4</data>
+</edge>
+<edge source="DEA" target="Narcotics control">
+  <data key="d1">4</data>
+</edge>
+<edge source="Defense Security Cooperation Agency" target="Sectors not specified">
+  <data key="d1">1</data>
+</edge>
+<edge source="Defense Threat Reduction Agency" target="Sectors not specified">
+  <data key="d1">1</data>
+</edge>
+<edge source="Department of Defense" target="Narcotics control">
+  <data key="d1">1</data>
+</edge>
+<edge source="Department of Defense" target="Sectors not specified">
+  <data key="d1">2</data>
+</edge>
+<edge source="Department of Energy - Office on Nonproliferation and Arms Control" target="Vocational training">
+  <data key="d1">4</data>
+</edge>
+<edge source="Department of Justice - Criminal Division - International Criminal Investigative Training Assistance Program (ICITAP)" target="Multisector aid">
+  <data key="d1">17</data>
+</edge>
+<edge source="Department of Justice - Criminal Division - Overseas Prosecutorial Development Assistance and Training (OPDAT)" target="Multisector aid">
+  <data key="d1">52</data>
+</edge>
+<edge source="Department of Justice Drug Enforcement Agency" target="Narcotics control">
+  <data key="d1">21</data>
+</edge>
+<edge source="Drug Enforcement Administration" target="Narcotics control">
+  <data key="d1">140</data>
+</edge>
+<edge source="ESTA International, LLC" target="Energy generation, renewable sources ñ multiple technologies">
+  <data key="d1">1</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">8</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Family planning">
+  <data key="d1">3</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Food aid/Food security programmes">
+  <data key="d1">14</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Material relief assistance and services">
+  <data key="d1">8</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Relief co-ordination; protection and support services">
+  <data key="d1">6</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Reproductive health care">
+  <data key="d1">4</data>
+</edge>
+<edge source="European Bank for Reconstruction and Development" target="Financial policy and administrative management">
+  <data key="d1">2</data>
+</edge>
+<edge source="FABSIT Foundation" target="Basic health care">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabsit Foundation" target="Basic health care">
+  <data key="d1">3</data>
+</edge>
+<edge source="Fabsit Foundation" target="Higher education">
+  <data key="d1">8</data>
+</edge>
+<edge source="Fair Labor Association" target="Economic and development policy/planning">
+  <data key="d1">12</data>
+</edge>
+<edge source="General Electric" target="Basic health infrastructure">
+  <data key="d1">2</data>
+</edge>
+<edge source="INTERNATIONAL ORGANIZATION FOR MIGRATION" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">3</data>
+</edge>
+<edge source="INTERNATIONAL SEA TURTLE SOCIE" target="Bio-diversity">
+  <data key="d1">4</data>
+</edge>
+<edge source="Immigration and Customs Enforcement (ICE)" target="Sectors not specified">
+  <data key="d1">1</data>
+</edge>
+<edge source="Information Redacted" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">4</data>
+</edge>
+<edge source="International Federation of Red Cross and Red Crescent Societies" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Organisation for Migration" target="Social/ welfare services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Isik Tarim" target="Business support services and institutions">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeppesen Sanderson, Inc" target="Transport policy and administrative management">
+  <data key="d1">1</data>
+</edge>
+<edge source="MICHIGAN STATE UNIVERSITY" target="Agricultural research">
+  <data key="d1">6</data>
+</edge>
+<edge source="Michigan State University" target="Agricultural research">
+  <data key="d1">1</data>
+</edge>
+<edge source="OSISoft LLC" target="Energy generation, renewable sources ñ multiple technologies">
+  <data key="d1">1</data>
+</edge>
+<edge source="Office of the Board of Trustees Robert College of Istanbul" target="Higher education">
+  <data key="d1">9</data>
+</edge>
+<edge source="PAMUKKALE BILIM MERKEZI DERNEGI" target="Bio-diversity">
+  <data key="d1">6</data>
+</edge>
+<edge source="POINT SECURITY, INC." target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">3</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">11</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Relief co-ordination; protection and support services">
+  <data key="d1">28</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="STD control including HIV/AIDS">
+  <data key="d1">4</data>
+</edge>
+<edge source="Selection In Progress" target="Multisector education/training">
+  <data key="d1">1</data>
+</edge>
+<edge source="The Webster Group" target="Energy generation, renewable sources ñ multiple technologies">
+  <data key="d1">2</data>
+</edge>
+<edge source="Transportation Security Administration (TSA)" target="Transport policy and administrative management">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. Government - Department of Defense" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">11</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Food aid/Food security programmes">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Material relief assistance and services">
+  <data key="d1">3</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Relief co-ordination; protection and support services">
+  <data key="d1">9</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">6</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Emergency food aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Food aid/Food security programmes">
+  <data key="d1">80</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Material relief assistance and services">
+  <data key="d1">79</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Relief co-ordination; protection and support services">
+  <data key="d1">21</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Reproductive health care">
+  <data key="d1">4</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="STD control including HIV/AIDS">
+  <data key="d1">3</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Tuberculosis control">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. National Laboratories" target="Energy education/training">
+  <data key="d1">3</data>
+</edge>
+<edge source="U.S. National Laboratories" target="Vocational training">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. National Labs" target="Vocational training">
+  <data key="d1">2</data>
+</edge>
+<edge source="United States Coast Guard (USCG)" target="Sectors not specified">
+  <data key="d1">3</data>
+</edge>
+<edge source="United States Coast Guard / Deputy Commandment for Operations I-2" target="Sectors not specified">
+  <data key="d1">1</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">40</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Food aid/Food security programmes">
+  <data key="d1">8</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Material relief assistance and services">
+  <data key="d1">10</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Relief co-ordination; protection and support services">
+  <data key="d1">46</data>
+</edge>
+<edge source="VIRGINIA POLYTECHNIC INSTITUTE  ST" target="Agricultural research">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Administrative costs">
+  <data key="d1">16</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Food aid/Food security programmes">
+  <data key="d1">6</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Multisector aid">
+  <data key="d1">59</data>
+</edge>
+<edge source="WBC - Nurolbank (Senior)" target="Formal sector financial intermediaries">
+  <data key="d1">1</data>
+</edge>
+<edge source="WBC -- Nurolbank (Subordinated)" target="Formal sector financial intermediaries">
+  <data key="d1">1</data>
+</edge>
+<edge source="Webster Group, Inc. (THE)" target="Energy generation, renewable sources ñ multiple technologies">
+  <data key="d1">2</data>
+</edge>
+<edge source="Willdan Energy Solutions" target="Multisector education/training">
+  <data key="d1">1</data>
+</edge>
+<edge source="World Bank Group" target="STD control including HIV/AIDS">
+  <data key="d1">1</data>
+</edge>
+<edge source="World Food Program" target="Emergency food aid">
+  <data key="d1">3</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d1"/>
+<key attr.name="node_type" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="ACF International">
+  <data key="d0">organization</data>
+</node>
+<node id="AURANITIS LIFE LINE FOR DEVELOPMENT AND TRAINING">
+  <data key="d0">organization</data>
+</node>
+<node id="Agency for Technical Cooperation and Development">
+  <data key="d0">organization</data>
+</node>
+<node id="American Refugee Committee International">
+  <data key="d0">organization</data>
+</node>
+<node id="BLUMONT ENGINEERING SOLUTIONS, INC.">
+  <data key="d0">organization</data>
+</node>
+<node id="Bert Smith and Co">
+  <data key="d0">organization</data>
+</node>
+<node id="Blumont Engineering Solutions, Inc">
+  <data key="d0">organization</data>
+</node>
+<node id="Blumont Global Development">
+  <data key="d0">organization</data>
+</node>
+<node id="Butyl Products Ltd">
+  <data key="d0">organization</data>
+</node>
+<node id="CELESTAR CORPORATION">
+  <data key="d0">organization</data>
+</node>
+<node id="CGI Group Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="CGI Group, Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="Catholic Relief Services">
+  <data key="d0">organization</data>
+</node>
+<node id="Chemonics International, Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="Chenega Corporation">
+  <data key="d0">organization</data>
+</node>
+<node id="Concern Worldwide U.S.">
+  <data key="d0">organization</data>
+</node>
+<node id="Consortium for Elections and Political Process Strengthening">
+  <data key="d0">organization</data>
+</node>
+<node id="Cooperative for Assistance and Relief Everywhere">
+  <data key="d0">organization</data>
+</node>
+<node id="DISTRIBUTION BY AIR">
+  <data key="d0">organization</data>
+</node>
+<node id="Danish Refugee Council">
+  <data key="d0">organization</data>
+</node>
+<node id="Defense Security Command Agency (DSCA)">
+  <data key="d0">organization</data>
+</node>
+<node id="Defense Security Cooperation Agency">
+  <data key="d0">organization</data>
+</node>
+<node id="Development Transformations, LLc">
+  <data key="d0">organization</data>
+</node>
+<node id="Development Transformations, Llc">
+  <data key="d0">organization</data>
+</node>
+<node id="Dexis Consulting Group">
+  <data key="d0">organization</data>
+</node>
+<node id="Edesia, LLC">
+  <data key="d0">organization</data>
+</node>
+<node id="Enterprise - Non United States Other">
+  <data key="d0">organization</data>
+</node>
+<node id="Enterprise - Non United States Unknown">
+  <data key="d0">organization</data>
+</node>
+<node id="Enterprise - United States Unknown">
+  <data key="d0">organization</data>
+</node>
+<node id="Food and Agriculture Organisation">
+  <data key="d0">organization</data>
+</node>
+<node id="GOAL">
+  <data key="d0">organization</data>
+</node>
+<node id="Global Communities">
+  <data key="d0">organization</data>
+</node>
+<node id="Government of Germany">
+  <data key="d0">organization</data>
+</node>
+<node id="Information Management and Mine Action Programs">
+  <data key="d0">organization</data>
+</node>
+<node id="International Business and Technical Consultants Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="International Federation of Red Cross and Red Crescent Societies">
+  <data key="d0">organization</data>
+</node>
+<node id="International Medical Corps">
+  <data key="d0">organization</data>
+</node>
+<node id="International Organisation for Migration">
+  <data key="d0">organization</data>
+</node>
+<node id="International Orthodox Christian Charities">
+  <data key="d0">organization</data>
+</node>
+<node id="International Relief and Development">
+  <data key="d0">organization</data>
+</node>
+<node id="International Rescue Committee">
+  <data key="d0">organization</data>
+</node>
+<node id="JAS FORWARDING WORLDWIDE">
+  <data key="d0">organization</data>
+</node>
+<node id="Jesuit Refugee Service">
+  <data key="d0">organization</data>
+</node>
+<node id="Management Sciences for Health">
+  <data key="d0">organization</data>
+</node>
+<node id="Mentor Initiative">
+  <data key="d0">organization</data>
+</node>
+<node id="Mercy Corps">
+  <data key="d0">organization</data>
+</node>
+<node id="Near East Foundation">
+  <data key="d0">organization</data>
+</node>
+<node id="Norwegian Refugee Council">
+  <data key="d0">organization</data>
+</node>
+<node id="Panalpina, Inc">
+  <data key="d0">organization</data>
+</node>
+<node id="People in Need (Czech Republic)">
+  <data key="d0">organization</data>
+</node>
+<node id="Personal Services Contractors - USAID">
+  <data key="d0">organization</data>
+</node>
+<node id="Premiere Urgence - Aide Medicale Internationale">
+  <data key="d0">organization</data>
+</node>
+<node id="PremiËre Urgence">
+  <data key="d0">organization</data>
+</node>
+<node id="Premi√®re Urgence">
+  <data key="d0">organization</data>
+</node>
+<node id="SOCIAL SOLUTIONS INTERNATIONAL, INC.">
+  <data key="d0">organization</data>
+</node>
+<node id="Solidarites International">
+  <data key="d0">organization</data>
+</node>
+<node id="TRANSGROUP WORLDWIDE LOGISTICS">
+  <data key="d0">organization</data>
+</node>
+<node id="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01.">
+  <data key="d0">organization</data>
+</node>
+<node id="Training Resources Group, Inc.">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - Department of State">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - U.S. Agency for International Development">
+  <data key="d0">organization</data>
+</node>
+<node id="U.S. Government - Unknown Agency">
+  <data key="d0">organization</data>
+</node>
+<node id="United Nations Children's Fund">
+  <data key="d0">organization</data>
+</node>
+<node id="United Nations Office of Co-ordination of Humanitarian Affairs">
+  <data key="d0">organization</data>
+</node>
+<node id="United Nations Population Fund">
+  <data key="d0">organization</data>
+</node>
+<node id="Unspecified Vendors - Bosnia and Herzegovina">
+  <data key="d0">organization</data>
+</node>
+<node id="Vendor implementing direct administrative services">
+  <data key="d0">organization</data>
+</node>
+<node id="Williams, Adley and Company - DC, LLP">
+  <data key="d0">organization</data>
+</node>
+<node id="World Food Program">
+  <data key="d0">organization</data>
+</node>
+<node id="World Health Organisation">
+  <data key="d0">organization</data>
+</node>
+<node id="World Vision">
+  <data key="d0">organization</data>
+</node>
+<node id="Relief co-ordination; protection and support services">
+  <data key="d0">aid</data>
+</node>
+<node id="Civilian peace-building, conflict prevention and resolution">
+  <data key="d0">aid</data>
+</node>
+<node id="Emergency food aid">
+  <data key="d0">aid</data>
+</node>
+<node id="Material relief assistance and services">
+  <data key="d0">aid</data>
+</node>
+<node id="Administrative costs">
+  <data key="d0">aid</data>
+</node>
+<node id="Multisector aid">
+  <data key="d0">aid</data>
+</node>
+<node id="Democratic participation and civil society">
+  <data key="d0">aid</data>
+</node>
+<node id="Decentralisation and support to subnational government">
+  <data key="d0">aid</data>
+</node>
+<node id="Economic and development policy/planning">
+  <data key="d0">aid</data>
+</node>
+<node id="Elections">
+  <data key="d0">aid</data>
+</node>
+<node id="Sectors not specified">
+  <data key="d0">aid</data>
+</node>
+<node id="Food aid/Food security programmes">
+  <data key="d0">aid</data>
+</node>
+<node id="Disaster prevention and preparedness">
+  <data key="d0">aid</data>
+</node>
+<node id="Energy policy and administrative management">
+  <data key="d0">aid</data>
+</node>
+<edge source="ACF International" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="AURANITIS LIFE LINE FOR DEVELOPMENT AND TRAINING" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">1</data>
+</edge>
+<edge source="Agency for Technical Cooperation and Development" target="Emergency food aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="Agency for Technical Cooperation and Development" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Agency for Technical Cooperation and Development" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="American Refugee Committee International" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="American Refugee Committee International" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="BLUMONT ENGINEERING SOLUTIONS, INC." target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">4</data>
+</edge>
+<edge source="Bert Smith and Co" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bert Smith and Co" target="Multisector aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="Blumont Engineering Solutions, Inc" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">4</data>
+</edge>
+<edge source="Blumont Engineering Solutions, Inc" target="Democratic participation and civil society">
+  <data key="d1">5</data>
+</edge>
+<edge source="Blumont Global Development" target="Emergency food aid">
+  <data key="d1">3</data>
+</edge>
+<edge source="Blumont Global Development" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butyl Products Ltd" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="CELESTAR CORPORATION" target="Multisector aid">
+  <data key="d1">94</data>
+</edge>
+<edge source="CGI Group Inc." target="Multisector aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="CGI Group, Inc." target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Catholic Relief Services" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">4</data>
+</edge>
+<edge source="Catholic Relief Services" target="Emergency food aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chemonics International, Inc." target="Administrative costs">
+  <data key="d1">4</data>
+</edge>
+<edge source="Chemonics International, Inc." target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">80</data>
+</edge>
+<edge source="Chemonics International, Inc." target="Material relief assistance and services">
+  <data key="d1">29</data>
+</edge>
+<edge source="Chemonics International, Inc." target="Multisector aid">
+  <data key="d1">5</data>
+</edge>
+<edge source="Chenega Corporation" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Chenega Corporation" target="Multisector aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="Concern Worldwide U.S." target="Emergency food aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="Concern Worldwide U.S." target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Consortium for Elections and Political Process Strengthening" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">9</data>
+</edge>
+<edge source="Consortium for Elections and Political Process Strengthening" target="Decentralisation and support to subnational government">
+  <data key="d1">2</data>
+</edge>
+<edge source="Consortium for Elections and Political Process Strengthening" target="Democratic participation and civil society">
+  <data key="d1">4</data>
+</edge>
+<edge source="Consortium for Elections and Political Process Strengthening" target="Economic and development policy/planning">
+  <data key="d1">6</data>
+</edge>
+<edge source="Consortium for Elections and Political Process Strengthening" target="Elections">
+  <data key="d1">10</data>
+</edge>
+<edge source="Cooperative for Assistance and Relief Everywhere" target="Emergency food aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="DISTRIBUTION BY AIR" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="DISTRIBUTION BY AIR" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Danish Refugee Council" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="Defense Security Command Agency (DSCA)" target="Sectors not specified">
+  <data key="d1">4</data>
+</edge>
+<edge source="Defense Security Cooperation Agency" target="Sectors not specified">
+  <data key="d1">4</data>
+</edge>
+<edge source="Development Transformations, LLc" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Development Transformations, LLc" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">7</data>
+</edge>
+<edge source="Development Transformations, Llc" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">26</data>
+</edge>
+<edge source="Development Transformations, Llc" target="Multisector aid">
+  <data key="d1">15</data>
+</edge>
+<edge source="Dexis Consulting Group" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">24</data>
+</edge>
+<edge source="Edesia, LLC" target="Food aid/Food security programmes">
+  <data key="d1">3</data>
+</edge>
+<edge source="Enterprise - Non United States Other" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Enterprise - Non United States Other" target="Material relief assistance and services">
+  <data key="d1">6</data>
+</edge>
+<edge source="Enterprise - Non United States Other" target="Multisector aid">
+  <data key="d1">5</data>
+</edge>
+<edge source="Enterprise - Non United States Other" target="Relief co-ordination; protection and support services">
+  <data key="d1">16</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">12</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Disaster prevention and preparedness">
+  <data key="d1">3</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Material relief assistance and services">
+  <data key="d1">43</data>
+</edge>
+<edge source="Enterprise - Non United States Unknown" target="Multisector aid">
+  <data key="d1">30</data>
+</edge>
+<edge source="Enterprise - United States Unknown" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Food and Agriculture Organisation" target="Relief co-ordination; protection and support services">
+  <data key="d1">4</data>
+</edge>
+<edge source="GOAL" target="Emergency food aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="Global Communities" target="Emergency food aid">
+  <data key="d1">4</data>
+</edge>
+<edge source="Global Communities" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Government of Germany" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">10</data>
+</edge>
+<edge source="Information Management and Mine Action Programs" target="Emergency food aid">
+  <data key="d1">3</data>
+</edge>
+<edge source="Information Management and Mine Action Programs" target="Material relief assistance and services">
+  <data key="d1">2</data>
+</edge>
+<edge source="Information Management and Mine Action Programs" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Business and Technical Consultants Inc." target="Emergency food aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Federation of Red Cross and Red Crescent Societies" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Federation of Red Cross and Red Crescent Societies" target="Material relief assistance and services">
+  <data key="d1">8</data>
+</edge>
+<edge source="International Federation of Red Cross and Red Crescent Societies" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Medical Corps" target="Material relief assistance and services">
+  <data key="d1">3</data>
+</edge>
+<edge source="International Medical Corps" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Organisation for Migration" target="Emergency food aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Organisation for Migration" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="International Orthodox Christian Charities" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="International Relief and Development" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">19</data>
+</edge>
+<edge source="International Rescue Committee" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="JAS FORWARDING WORLDWIDE" target="Disaster prevention and preparedness">
+  <data key="d1">3</data>
+</edge>
+<edge source="Jesuit Refugee Service" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Management Sciences for Health" target="Relief co-ordination; protection and support services">
+  <data key="d1">4</data>
+</edge>
+<edge source="Mentor Initiative" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mentor Initiative" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mercy Corps" target="Emergency food aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="Mercy Corps" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="Near East Foundation" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">5</data>
+</edge>
+<edge source="Norwegian Refugee Council" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="Panalpina, Inc" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="People in Need (Czech Republic)" target="Emergency food aid">
+  <data key="d1">2</data>
+</edge>
+<edge source="People in Need (Czech Republic)" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">99</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Disaster prevention and preparedness">
+  <data key="d1">77</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Material relief assistance and services">
+  <data key="d1">408</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Multisector aid">
+  <data key="d1">56</data>
+</edge>
+<edge source="Personal Services Contractors - USAID" target="Relief co-ordination; protection and support services">
+  <data key="d1">60</data>
+</edge>
+<edge source="Premiere Urgence - Aide Medicale Internationale" target="Material relief assistance and services">
+  <data key="d1">3</data>
+</edge>
+<edge source="Premiere Urgence - Aide Medicale Internationale" target="Relief co-ordination; protection and support services">
+  <data key="d1">1</data>
+</edge>
+<edge source="PremiËre Urgence" target="Material relief assistance and services">
+  <data key="d1">7</data>
+</edge>
+<edge source="Premi√®re Urgence" target="Material relief assistance and services">
+  <data key="d1">13</data>
+</edge>
+<edge source="SOCIAL SOLUTIONS INTERNATIONAL, INC." target="Multisector aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="Solidarites International" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRANSGROUP WORLDWIDE LOGISTICS" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">125</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Disaster prevention and preparedness">
+  <data key="d1">20</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Emergency food aid">
+  <data key="d1">410</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Food aid/Food security programmes">
+  <data key="d1">21</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Material relief assistance and services">
+  <data key="d1">1198</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Multisector aid">
+  <data key="d1">12</data>
+</edge>
+<edge source="The vendor name has been redacted in accordance with the Principled Exceptions outlined in the Office of Management and Budget Bulletin 12-01." target="Relief co-ordination; protection and support services">
+  <data key="d1">368</data>
+</edge>
+<edge source="Training Resources Group, Inc." target="Administrative costs">
+  <data key="d1">2</data>
+</edge>
+<edge source="Training Resources Group, Inc." target="Multisector aid">
+  <data key="d1">11</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Disaster prevention and preparedness">
+  <data key="d1">46</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Material relief assistance and services">
+  <data key="d1">97</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Multisector aid">
+  <data key="d1">1</data>
+</edge>
+<edge source="U.S. Government - Department of State" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Disaster prevention and preparedness">
+  <data key="d1">11</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Energy policy and administrative management">
+  <data key="d1">3</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Material relief assistance and services">
+  <data key="d1">14</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Multisector aid">
+  <data key="d1">36</data>
+</edge>
+<edge source="U.S. Government - U.S. Agency for International Development" target="Relief co-ordination; protection and support services">
+  <data key="d1">137</data>
+</edge>
+<edge source="U.S. Government - Unknown Agency" target="Material relief assistance and services">
+  <data key="d1">2</data>
+</edge>
+<edge source="United Nations Children's Fund" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="United Nations Children's Fund" target="Material relief assistance and services">
+  <data key="d1">68</data>
+</edge>
+<edge source="United Nations Children's Fund" target="Relief co-ordination; protection and support services">
+  <data key="d1">24</data>
+</edge>
+<edge source="United Nations Office of Co-ordination of Humanitarian Affairs" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+<edge source="United Nations Population Fund" target="Material relief assistance and services">
+  <data key="d1">21</data>
+</edge>
+<edge source="United Nations Population Fund" target="Relief co-ordination; protection and support services">
+  <data key="d1">15</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">6</data>
+</edge>
+<edge source="Unspecified Vendors - Bosnia and Herzegovina" target="Relief co-ordination; protection and support services">
+  <data key="d1">4</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Administrative costs">
+  <data key="d1">170</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Civilian peace-building, conflict prevention and resolution">
+  <data key="d1">2</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Material relief assistance and services">
+  <data key="d1">3</data>
+</edge>
+<edge source="Vendor implementing direct administrative services" target="Multisector aid">
+  <data key="d1">278</data>
+</edge>
+<edge source="Williams, Adley and Company - DC, LLP" target="Administrative costs">
+  <data key="d1">1</data>
+</edge>
+<edge source="Williams, Adley and Company - DC, LLP" target="Multisector aid">
+  <data key="d1">3</data>
+</edge>
+<edge source="World Food Program" target="Emergency food aid">
+  <data key="d1">9</data>
+</edge>
+<edge source="World Food Program" target="Food aid/Food security programmes">
+  <data key="d1">5</data>
+</edge>
+<edge source="World Health Organisation" target="Material relief assistance and services">
+  <data key="d1">1</data>
+</edge>
+<edge source="World Health Organisation" target="Relief co-ordination; protection and support services">
+  <data key="d1">4</data>
+</edge>
+<edge source="World Vision" target="Relief co-ordination; protection and support services">
+  <data key="d1">2</data>
+</edge>
+</graph></graphml>
