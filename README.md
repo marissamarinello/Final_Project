@@ -10,9 +10,9 @@ This folder contains Python codebooks downloaded from colab.
 * refugee_populations
 
 ## Data_Sources
-This folder contains the data downloaded and used for final project. 
-* Refugee_Population: contains UNHCR data used for understanding how the Syrian refugee population and internally displaced population changes over time
-* US_Aid: contains data for Syria and Turkey downloaded from foreignassistance.gov and a subfolder for codebooks for the data
+This folder contains the raw data downloaded and used for final project and clean data. 
+* Refugee_Population: contains raw UNHCR data used for understanding how the Syrian refugee population and internally displaced population changes over time
+* US_Aid: contains raw data for Syria and Turkey downloaded from foreignassistance.gov and a subfolder for codebooks for the data
 * Clean_Data: contains data cleaned on Python 
 
 ## Gephi
