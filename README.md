@@ -18,6 +18,9 @@ This folder contains the data downloaded and used for final project.
 ## Gephi
 This folder contains networks downloaded from colab notebooks for funding from the US to Syria, and for funding from the US to Turkey
 
+## Paper
+This folder contains all files used for writing final research paper. Sub folders exist in this folder for article sources used, draft materials, and a folder for paper presentation.
+
 ## Visuals
 This folder contains excel sheets downloaded from python used to make graphs for presentation slideshow.
 
